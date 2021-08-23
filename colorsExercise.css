@@ -42,12 +42,14 @@ p {
    /* Bonus: background-color */
    background-color: violet;
 }
+/* Bonus: hotpink text color/ green border */
 .pinky {
   color: hotpink;
   border-style: solid;
   border-color: green;
   border-width: 5px;
 }
+/* Bonus: peachpuff backgrpound/ green border */
 .peachy {
   background-color: peachpuff;
   border-style: solid;
