@@ -1,29 +1,56 @@
 /* Colors Exercise */
 h1 {
   /* Color Name */
-  color:purple;
+  color:violet;
+  /* Bonus: background-color */
+  background-color: red;
 }
 h2 {
   /* hexadecimal */
 color: #4B0082;
+ /* Bonus: background-color */
+ background-color: orange;
 }
 h3 {
   /* hexadecimal shorthand */
   color: #00f;
+   /* Bonus: background-color */
+   background-color: yellow;
 }
 h4 {
   /* hexadecimal with transparency */
   color: #00ff0000;
+   /* Bonus: background-color */
+   background-color: green;
 }
 h5 {
   /* hexadecimal with transparency shorthand */
   color: #ff0f;
+   /* Bonus: background-color */
+   background-color: blue;
 }
 h6 {
   /* RGB */
   color: rgb(255, 165, 0);
+   /* Bonus: background-color */
+   background-color: indigo;
 }
 
 p {
+  /* RGBA */
   color: rgba(255, 0, 0, 0.75);
+   /* Bonus: background-color */
+   background-color: violet;
+}
+.pinky {
+  color: hotpink;
+  border-style: solid;
+  border-color: green;
+  border-width: 5px;
+}
+.peachy {
+  background-color: peachpuff;
+  border-style: solid;
+  border-color: green;
+  border-width: 5px;
 }
