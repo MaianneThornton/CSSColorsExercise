@@ -1,0 +1,29 @@
+/* Colors Exercise */
+h1 {
+  /* Color Name */
+  color:red;
+}
+h2 {
+  /* hexadecimal */
+color: #ffa500;
+}
+h3 {
+  /* hexadecimal shorthand */
+  color: #ff0;
+}
+h4 {
+  /* hexadecimal with transparency */
+  color: #00ff0000;
+}
+h5 {
+  /* hexadecimal with transparency */
+  color: #00ff;
+}
+h6 {
+  /* RGB */
+  color: rgb(75, 0, 130);
+}
+
+p {
+  color: rgba(128, 0, 128, 0.75);
+}
